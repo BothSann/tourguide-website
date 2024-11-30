@@ -1,0 +1,33 @@
+.margin-bottom {
+  margin-bottom: 7rem;
+}
+
+.border-bottom {
+  border-bottom: 1px solid #dee2e6;
+}
+
+.border-left-right {
+  border-left: 1px solid #dee2e6;
+  border-right: 1px solid #dee2e6;
+}
+
+.hero-description--small {
+  display: block;
+  font-size: 1.4rem;
+  line-height: 1.4;
+  margin-bottom: 4rem;
+}
+
+.story-text-box--opposite {
+  padding-left: 6rem;
+  padding-right: 0;
+}
+
+.heading-secondary--left {
+  text-align: left;
+}
+
+.btn--story:link,
+.btn--story:visited {
+  padding: 1rem 2rem;
+}
